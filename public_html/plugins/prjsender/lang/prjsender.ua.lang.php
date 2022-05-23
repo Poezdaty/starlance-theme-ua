@@ -2,10 +2,10 @@
 
 defined('COT_CODE') or die('Wrong URL.');
 
-$L['cfg_limittosend'] = 'Количество уведомлений за один цикл';
+$L['cfg_limittosend'] = 'Кількість повідомлень за один цикл';
 
-$L['prjsender'] = 'Подписка на проекты';
-$L['prjsender_title'] = 'Настройка подписки';
-$L['prjsender_desc'] = 'Пожалуйста, отметьте категории проектов для подписки:';
+$L['prjsender'] = 'Підписка на проекти';
+$L['prjsender_title'] = 'Налаштування підписки';
+$L['prjsender_desc'] = 'Будь ласка, позначте категорії проектів для підписки:';
 
-$L['prjsender_mail_title'] = 'Новые проекты';
+$L['prjsender_mail_title'] = 'Нові проекти';
